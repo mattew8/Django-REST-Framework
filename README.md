@@ -5,4 +5,4 @@
 📄 https://www.django-rest-framework.org/ <br>
 
 코드리뷰는 이곳에서<br>
-👉 https://23life.tistory.com/category/Django
+👉 https://23life.tistory.com/category/Django/Django%20REST%20Framework <br>
